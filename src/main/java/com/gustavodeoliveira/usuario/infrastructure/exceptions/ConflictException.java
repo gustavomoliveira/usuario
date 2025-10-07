@@ -1,4 +1,4 @@
-package com.gustavodeoliveira.praticando_spring.infrastructure.exceptions;
+package com.gustavodeoliveira.usuario.infrastructure.exceptions;
 
 public class ConflictException extends RuntimeException {
     public ConflictException(String mensagem) {
