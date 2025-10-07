@@ -1,11 +1,7 @@
 package com.gustavodeoliveira.usuario.business.converter;
 
-import com.gustavodeoliveira.usuario.business.dto.EnderecoDTO;
-import com.gustavodeoliveira.usuario.business.dto.TelefoneDTO;
-import com.gustavodeoliveira.usuario.business.dto.UsuarioDTO;
-import com.gustavodeoliveira.usuario.infrastructure.entity.Endereco;
-import com.gustavodeoliveira.usuario.infrastructure.entity.Telefone;
-import com.gustavodeoliveira.usuario.infrastructure.entity.Usuario;
+import com.gustavodeoliveira.usuario.business.dto.*;
+import com.gustavodeoliveira.usuario.infrastructure.entity.*;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
